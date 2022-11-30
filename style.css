@@ -1,0 +1,71 @@
+h1{
+    text-align: center;
+    color: whitesmoke;
+    
+    }
+    
+    body{
+        background-color: black;
+    }
+
+
+
+li{
+    color:azure;
+    font-size: 150%;
+    font-family: 'Waiting for the sunrise', cursive;
+}
+
+
+    #todoInput{
+        text-align: center;
+        color-scheme: dark;
+        height: 30px;
+        border:black 50;
+    
+    }
+    
+    form{
+        text-align: center;
+        }
+    
+    #list{
+        text-align: center;
+        border: 3px solid black;
+        color-scheme: dark;
+        color:azure;
+        background-color:  dark ;
+    }
+    
+    #addItems {background-color: #4CAF50;
+        border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin-top: 15px;
+      margin-bottom: 50px;
+    } /* Green */
+    #removeItems {background-color:#008CBA;
+        border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin-top: 10px;
+    } /* Blue */
+    #removeAll {background-color: #f44336;
+        border: none;
+      color: white;
+      padding: 15px 32px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin-top: 10px;
+    } 
+    
